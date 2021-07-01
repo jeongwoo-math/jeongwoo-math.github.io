@@ -10,7 +10,7 @@ tags:
 - numerical polynomial
 ---
 
-> Numerical polynomial: (거의) 모든 정수에 대해, 정수값을 내놓는 다항식.
+> Numerical polynomial --- (거의) 모든 정수에 대해, 정수값을 내놓는 다항식.
 
 ## 정의
 
