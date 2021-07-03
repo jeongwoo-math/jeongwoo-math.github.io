@@ -1,0 +1,6 @@
+- Using category as archive by date.
+
+git init
+git add .
+git commit -m 'commit message'
+git push -u origin main

@@ -3,9 +3,7 @@ title: Numerical Polynomials
 date: 2021-06-08
 classes: wide
 categories:
-- mathematics
 - topology
-- number theory
 tags:
 - numerical polynomial
 ---
